@@ -1,8 +1,8 @@
 # Oracle Cloud Readiness Report
-Generated: 2026-07-21 12:10 UTC
+Generated: 2026-07-21 12:15 UTC
 Source: [Readiness Reports Center](https://www.oracle.com/webfolder/technetwork/tutorials/tutorial/readiness/app/index.html)
 Filters: `{"pillars": ["erp", "scm", "hcm", "service"], "modules": null, "releases": null, "query": null}`
-Total matched: 392
+Total matched: 556
 
 ## Accounting Hub What's New 24A
 - Pillar: erp  |  Module: Accounting Hub  |  Release: 24A  |  Impact: n/a
@@ -1782,6 +1782,989 @@ Learn what's new in this release and how to plan your upgrade.
 
 ## Whats New in Oracle Fusion Data Intelligence
 - Pillar: hcm  |  Module: Whats New in Oracle Fusion Data Intelligence  |  Release: Unknown  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/../analytics/26r2/fawwn/index.html
+- PDF: https://docs.oracle.com/en/cloud/saas/readiness/../analytics/26r2/fawwn/whats-new-oracle-fusion-data-intelligence.pdf
+
+Describes the new features in Oracle Fusion Analytics Warehouse.
+
+## Common Technologies and User Experience What's New 24A
+- Pillar: scm  |  Module: Common Technologies and User Experience  |  Release: 24A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/common/24a/common24a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Demand Management What's New 24A
+- Pillar: scm  |  Module: Demand Management  |  Release: 24A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24a/demand24a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Global Trade Management What's New 24A
+- Pillar: scm  |  Module: Global Trade Management  |  Release: 24A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/logistics/24a/gtm24a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Inventory Management What's New 24A
+- Pillar: scm  |  Module: Inventory Management  |  Release: 24A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24a/inv24a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Maintenance What's New 24A
+- Pillar: scm  |  Module: Maintenance  |  Release: 24A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24a/maint24a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Manufacturing What's New 24A
+- Pillar: scm  |  Module: Manufacturing  |  Release: 24A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24a/mfg24a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Order Management What's New 24A
+- Pillar: scm  |  Module: Order Management  |  Release: 24A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24a/order24a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Procurement What's New 24A
+- Pillar: scm  |  Module: Procurement  |  Release: 24A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24a/proc24a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Product Lifecycle Management What's New 24A
+- Pillar: scm  |  Module: Product Lifecycle Management  |  Release: 24A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24a/plm24a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Sales and Operations Planning What's New 24A
+- Pillar: scm  |  Module: Sales and Operations Planning  |  Release: 24A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24a/sop24a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Self Service Procurement What's New 24A
+- Pillar: scm  |  Module: Self Service Procurement  |  Release: 24A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24a/ssproc24a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Supply Chain Collaboration What's New 24A
+- Pillar: scm  |  Module: Supply Chain Collaboration  |  Release: 24A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24a/sccv24a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Supply Planning What's New 24A
+- Pillar: scm  |  Module: Supply Planning  |  Release: 24A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24a/scp24a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Transportation Management What's New 24A
+- Pillar: scm  |  Module: Transportation Management  |  Release: 24A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/logistics/24a/otm24a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Warehouse Management What's New 24A
+- Pillar: scm  |  Module: Warehouse Management  |  Release: 24A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/logistics/24a/wms24a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Common Technologies and User Experience What's New 24B
+- Pillar: scm  |  Module: Common Technologies and User Experience  |  Release: 24B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/common/24b/common24b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Demand Management What's New 24B
+- Pillar: scm  |  Module: Demand Management  |  Release: 24B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24b/demand24b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Global Trade Management What's New 24B
+- Pillar: scm  |  Module: Global Trade Management  |  Release: 24B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/logistics/24b/gtm24b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Inventory Management What's New 24B
+- Pillar: scm  |  Module: Inventory Management  |  Release: 24B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24b/inv24b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Maintenance What's New 24B
+- Pillar: scm  |  Module: Maintenance  |  Release: 24B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24b/maint24b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Manufacturing What's New 24B
+- Pillar: scm  |  Module: Manufacturing  |  Release: 24B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24b/mfg24b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Order Management What's New 24B
+- Pillar: scm  |  Module: Order Management  |  Release: 24B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24b/order24b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Procurement What's New 24B
+- Pillar: scm  |  Module: Procurement  |  Release: 24B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24b/proc24b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Product Lifecycle Management What's New 24B
+- Pillar: scm  |  Module: Product Lifecycle Management  |  Release: 24B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24b/plm24b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Sales and Operations Planning What's New 24B
+- Pillar: scm  |  Module: Sales and Operations Planning  |  Release: 24B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24b/sop24b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Self Service Procurement What's New 24B
+- Pillar: scm  |  Module: Self Service Procurement  |  Release: 24B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24b/ssproc24b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Supply Chain Collaboration What's New 24B
+- Pillar: scm  |  Module: Supply Chain Collaboration  |  Release: 24B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24b/sccv24b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Supply Planning What's New 24B
+- Pillar: scm  |  Module: Supply Planning  |  Release: 24B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24b/scp24b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Transportation Management What's New 24B
+- Pillar: scm  |  Module: Transportation Management  |  Release: 24B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/logistics/24b/otm24b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Warehouse Management What's New 24B
+- Pillar: scm  |  Module: Warehouse Management  |  Release: 24B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/logistics/24b/wms24b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Common Technologies and User Experience What's New 24C
+- Pillar: scm  |  Module: Common Technologies and User Experience  |  Release: 24C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/common/24c/common24c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Demand Management What's New 24C
+- Pillar: scm  |  Module: Demand Management  |  Release: 24C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24c/demand24c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Global Trade Management What's New 24C
+- Pillar: scm  |  Module: Global Trade Management  |  Release: 24C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/logistics/24c/gtm24c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Inventory Management What's New 24C
+- Pillar: scm  |  Module: Inventory Management  |  Release: 24C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24c/inv24c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Maintenance What's New 24C
+- Pillar: scm  |  Module: Maintenance  |  Release: 24C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24c/maint24c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Manufacturing What's New 24C
+- Pillar: scm  |  Module: Manufacturing  |  Release: 24C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24c/mfg24c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Order Management What's New 24C
+- Pillar: scm  |  Module: Order Management  |  Release: 24C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24c/order24c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Procurement What's New 24C
+- Pillar: scm  |  Module: Procurement  |  Release: 24C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24c/proc24c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Product Lifecycle Management What's New 24C
+- Pillar: scm  |  Module: Product Lifecycle Management  |  Release: 24C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24c/plm24c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Sales and Operations Planning What's New 24C
+- Pillar: scm  |  Module: Sales and Operations Planning  |  Release: 24C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24c/sop24c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Self Service Procurement What's New 24C
+- Pillar: scm  |  Module: Self Service Procurement  |  Release: 24C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24c/ssproc24c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Supply Chain Collaboration What's New 24C
+- Pillar: scm  |  Module: Supply Chain Collaboration  |  Release: 24C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24c/sccv24c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Supply Planning What's New 24C
+- Pillar: scm  |  Module: Supply Planning  |  Release: 24C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24c/scp24c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Transportation Management What's New 24C
+- Pillar: scm  |  Module: Transportation Management  |  Release: 24C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/logistics/24c/otm24c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Warehouse Management What's New 24C
+- Pillar: scm  |  Module: Warehouse Management  |  Release: 24C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/logistics/24c/wms24c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Common Technologies and User Experience What's New 24D
+- Pillar: scm  |  Module: Common Technologies and User Experience  |  Release: 24D  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/common/24d/common24d/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Demand Management What's New 24D
+- Pillar: scm  |  Module: Demand Management  |  Release: 24D  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24d/demand24d/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Inventory Management What's New 24D
+- Pillar: scm  |  Module: Inventory Management  |  Release: 24D  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24d/inv24d/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Maintenance What's New 24D
+- Pillar: scm  |  Module: Maintenance  |  Release: 24D  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24d/maint24d/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Manufacturing What's New 24D
+- Pillar: scm  |  Module: Manufacturing  |  Release: 24D  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24d/mfg24d/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Order Management What's New 24D
+- Pillar: scm  |  Module: Order Management  |  Release: 24D  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24d/order24d/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Procurement What's New 24D
+- Pillar: scm  |  Module: Procurement  |  Release: 24D  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24d/proc24d/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Product Lifecycle Management What's New 24D
+- Pillar: scm  |  Module: Product Lifecycle Management  |  Release: 24D  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24d/plm24d/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Sales and Operations Planning What's New 24D
+- Pillar: scm  |  Module: Sales and Operations Planning  |  Release: 24D  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24d/sop24d/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Self Service Procurement What's New 24D
+- Pillar: scm  |  Module: Self Service Procurement  |  Release: 24D  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24d/ssproc24d/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Supply Chain Collaboration What's New 24D
+- Pillar: scm  |  Module: Supply Chain Collaboration  |  Release: 24D  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24d/sccv24d/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Supply Planning What's New 24D
+- Pillar: scm  |  Module: Supply Planning  |  Release: 24D  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/24d/scp24d/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Warehouse Management What's New 24D
+- Pillar: scm  |  Module: Warehouse Management  |  Release: 24D  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/logistics/24d/wms24d/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Common Technologies and User Experience What's New 25A
+- Pillar: scm  |  Module: Common Technologies and User Experience  |  Release: 25A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/common/25a/common25a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Demand Management What's New 25A
+- Pillar: scm  |  Module: Demand Management  |  Release: 25A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25a/demand25a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Global Trade Management What's New 25A
+- Pillar: scm  |  Module: Global Trade Management  |  Release: 25A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/logistics/25a/gtm25a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Inventory Management What's New 25A
+- Pillar: scm  |  Module: Inventory Management  |  Release: 25A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25a/inv25a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Maintenance What's New 25A
+- Pillar: scm  |  Module: Maintenance  |  Release: 25A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25a/maint25a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Manufacturing What's New 25A
+- Pillar: scm  |  Module: Manufacturing  |  Release: 25A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25a/mfg25a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Order Management What's New 25A
+- Pillar: scm  |  Module: Order Management  |  Release: 25A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25a/order25a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Procurement What's New 25A
+- Pillar: scm  |  Module: Procurement  |  Release: 25A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25a/proc25a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Product Lifecycle Management What's New 25A
+- Pillar: scm  |  Module: Product Lifecycle Management  |  Release: 25A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25a/plm25a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Sales and Operations Planning What's New 25A
+- Pillar: scm  |  Module: Sales and Operations Planning  |  Release: 25A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25a/sop25a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Self Service Procurement What's New 25A
+- Pillar: scm  |  Module: Self Service Procurement  |  Release: 25A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25a/ssproc25a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Supply Chain Collaboration What's New 25A
+- Pillar: scm  |  Module: Supply Chain Collaboration  |  Release: 25A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25a/sccv25a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Supply Planning What's New 25A
+- Pillar: scm  |  Module: Supply Planning  |  Release: 25A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25a/scp25a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Transportation Management What's New 25A
+- Pillar: scm  |  Module: Transportation Management  |  Release: 25A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/logistics/25a/otm25a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Warehouse Management What's New 25A
+- Pillar: scm  |  Module: Warehouse Management  |  Release: 25A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/logistics/25a/wms25a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Common Technologies and User Experience What's New 25B
+- Pillar: scm  |  Module: Common Technologies and User Experience  |  Release: 25B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/common/25b/common25b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Demand Management What's New 25B
+- Pillar: scm  |  Module: Demand Management  |  Release: 25B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25b/demand25b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Global Trade Management What's New 25B
+- Pillar: scm  |  Module: Global Trade Management  |  Release: 25B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/logistics/25b/gtm25b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Inventory Management What's New 25B
+- Pillar: scm  |  Module: Inventory Management  |  Release: 25B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25b/inv25b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Maintenance What's New 25B
+- Pillar: scm  |  Module: Maintenance  |  Release: 25B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25b/maint25b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Manufacturing What's New 25B
+- Pillar: scm  |  Module: Manufacturing  |  Release: 25B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25b/mfg25b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Order Management What's New 25B
+- Pillar: scm  |  Module: Order Management  |  Release: 25B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25b/order25b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Procurement What's New 25B
+- Pillar: scm  |  Module: Procurement  |  Release: 25B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25b/proc25b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Product Lifecycle Management What's New 25B
+- Pillar: scm  |  Module: Product Lifecycle Management  |  Release: 25B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25b/plm25b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Sales and Operations Planning What's New 25B
+- Pillar: scm  |  Module: Sales and Operations Planning  |  Release: 25B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25b/sop25b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Self Service Procurement What's New 25B
+- Pillar: scm  |  Module: Self Service Procurement  |  Release: 25B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25b/ssproc25b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Supply Chain Collaboration What's New 25B
+- Pillar: scm  |  Module: Supply Chain Collaboration  |  Release: 25B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25b/sccv25b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Supply Planning What's New 25B
+- Pillar: scm  |  Module: Supply Planning  |  Release: 25B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25b/scp25b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Transportation Management What's New 25B
+- Pillar: scm  |  Module: Transportation Management  |  Release: 25B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/logistics/25b/otm25b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Warehouse Management What's New 25B
+- Pillar: scm  |  Module: Warehouse Management  |  Release: 25B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/logistics/25b/wms25b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Common Technologies and User Experience What's New 25C
+- Pillar: scm  |  Module: Common Technologies and User Experience  |  Release: 25C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/common/25c/common25c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Demand Management What's New 25C
+- Pillar: scm  |  Module: Demand Management  |  Release: 25C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25c/demand25c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Global Trade Management What's New 25C
+- Pillar: scm  |  Module: Global Trade Management  |  Release: 25C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/logistics/25c/gtm25c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Inventory Management What's New 25C
+- Pillar: scm  |  Module: Inventory Management  |  Release: 25C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25c/inv25c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Maintenance What's New 25C
+- Pillar: scm  |  Module: Maintenance  |  Release: 25C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25c/maint25c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Manufacturing What's New 25C
+- Pillar: scm  |  Module: Manufacturing  |  Release: 25C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25c/mfg25c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Order Management What's New 25C
+- Pillar: scm  |  Module: Order Management  |  Release: 25C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25c/order25c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Procurement What's New 25C
+- Pillar: scm  |  Module: Procurement  |  Release: 25C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25c/proc25c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Product Lifecycle Management What's New 25C
+- Pillar: scm  |  Module: Product Lifecycle Management  |  Release: 25C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25c/plm25c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Sales and Operations Planning What's New 25C
+- Pillar: scm  |  Module: Sales and Operations Planning  |  Release: 25C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25c/sop25c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Self Service Procurement What's New 25C
+- Pillar: scm  |  Module: Self Service Procurement  |  Release: 25C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25c/ssproc25c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Supply Chain Collaboration What's New 25C
+- Pillar: scm  |  Module: Supply Chain Collaboration  |  Release: 25C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25c/sccv25c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Supply Planning What's New 25C
+- Pillar: scm  |  Module: Supply Planning  |  Release: 25C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25c/scp25c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Transportation Management What's New 25C
+- Pillar: scm  |  Module: Transportation Management  |  Release: 25C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/logistics/25c/otm25c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Warehouse Management What's New 25C
+- Pillar: scm  |  Module: Warehouse Management  |  Release: 25C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/logistics/25c/wms25c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Common Technologies and User Experience What's New 25D
+- Pillar: scm  |  Module: Common Technologies and User Experience  |  Release: 25D  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/common/25d/common25d/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Demand Management What's New 25D
+- Pillar: scm  |  Module: Demand Management  |  Release: 25D  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25d/demand25d/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Inventory Management What's New 25D
+- Pillar: scm  |  Module: Inventory Management  |  Release: 25D  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25d/inv25d/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Maintenance What's New 25D
+- Pillar: scm  |  Module: Maintenance  |  Release: 25D  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25d/maint25d/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Manufacturing What's New 25D
+- Pillar: scm  |  Module: Manufacturing  |  Release: 25D  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25d/mfg25d/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Order Management What's New 25D
+- Pillar: scm  |  Module: Order Management  |  Release: 25D  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25d/order25d/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Procurement What's New 25D
+- Pillar: scm  |  Module: Procurement  |  Release: 25D  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25d/proc25d/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Product Lifecycle Management What's New 25D
+- Pillar: scm  |  Module: Product Lifecycle Management  |  Release: 25D  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25d/plm25d/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Sales and Operations Planning What's New 25D
+- Pillar: scm  |  Module: Sales and Operations Planning  |  Release: 25D  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25d/sop25d/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Self Service Procurement What's New 25D
+- Pillar: scm  |  Module: Self Service Procurement  |  Release: 25D  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25d/ssproc25d/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Supply Chain Collaboration What's New 25D
+- Pillar: scm  |  Module: Supply Chain Collaboration  |  Release: 25D  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25d/sccv25d/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Supply Planning What's New 25D
+- Pillar: scm  |  Module: Supply Planning  |  Release: 25D  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/25d/scp25d/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Warehouse Management What's New 25D
+- Pillar: scm  |  Module: Warehouse Management  |  Release: 25D  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/logistics/25d/wms25d/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Common Technologies and User Experience What's New 26A
+- Pillar: scm  |  Module: Common Technologies and User Experience  |  Release: 26A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/common/26a/common26a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Demand Management What's New 26A
+- Pillar: scm  |  Module: Demand Management  |  Release: 26A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/26a/demand26a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Global Trade Management What's New 26A
+- Pillar: scm  |  Module: Global Trade Management  |  Release: 26A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/logistics/26a/gtm26a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Inventory Management What's New 26A
+- Pillar: scm  |  Module: Inventory Management  |  Release: 26A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/26a/inv26a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Maintenance What's New 26A
+- Pillar: scm  |  Module: Maintenance  |  Release: 26A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/26a/maint26a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Manufacturing What's New 26A
+- Pillar: scm  |  Module: Manufacturing  |  Release: 26A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/26a/mfg26a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Order Management What's New 26A
+- Pillar: scm  |  Module: Order Management  |  Release: 26A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/26a/order26a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Procurement What's New 26A
+- Pillar: scm  |  Module: Procurement  |  Release: 26A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/26a/proc26a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Product Lifecycle Management What's New 26A
+- Pillar: scm  |  Module: Product Lifecycle Management  |  Release: 26A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/26a/plm26a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Sales and Operations Planning What's New 26A
+- Pillar: scm  |  Module: Sales and Operations Planning  |  Release: 26A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/26a/sop26a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Self Service Procurement What's New 26A
+- Pillar: scm  |  Module: Self Service Procurement  |  Release: 26A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/26a/ssproc26a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Supply Chain Collaboration What's New 26A
+- Pillar: scm  |  Module: Supply Chain Collaboration  |  Release: 26A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/26a/sccv26a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Supply Planning What's New 26A
+- Pillar: scm  |  Module: Supply Planning  |  Release: 26A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/26a/scp26a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Transportation Management What's New 26A
+- Pillar: scm  |  Module: Transportation Management  |  Release: 26A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/logistics/26a/otm26a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Warehouse Management What's New 26A
+- Pillar: scm  |  Module: Warehouse Management  |  Release: 26A  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/logistics/26a/wms26a/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Common Technologies and User Experience What's New 26B
+- Pillar: scm  |  Module: Common Technologies and User Experience  |  Release: 26B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/common/26b/common26b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Demand Management What's New 26B
+- Pillar: scm  |  Module: Demand Management  |  Release: 26B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/26b/demand26b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Global Trade Management What's New 26B
+- Pillar: scm  |  Module: Global Trade Management  |  Release: 26B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/logistics/26b/gtm26b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Inventory Management What's New 26B
+- Pillar: scm  |  Module: Inventory Management  |  Release: 26B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/26b/inv26b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Maintenance What's New 26B
+- Pillar: scm  |  Module: Maintenance  |  Release: 26B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/26b/maint26b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Manufacturing What's New 26B
+- Pillar: scm  |  Module: Manufacturing  |  Release: 26B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/26b/mfg26b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Order Management What's New 26B
+- Pillar: scm  |  Module: Order Management  |  Release: 26B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/26b/order26b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Procurement What's New 26B
+- Pillar: scm  |  Module: Procurement  |  Release: 26B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/26b/proc26b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Product Lifecycle Management What's New 26B
+- Pillar: scm  |  Module: Product Lifecycle Management  |  Release: 26B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/26b/plm26b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Sales and Operations Planning What's New 26B
+- Pillar: scm  |  Module: Sales and Operations Planning  |  Release: 26B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/26b/sop26b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Self Service Procurement What's New 26B
+- Pillar: scm  |  Module: Self Service Procurement  |  Release: 26B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/26b/ssproc26b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Supply Chain Collaboration What's New 26B
+- Pillar: scm  |  Module: Supply Chain Collaboration  |  Release: 26B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/26b/sccv26b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Supply Planning What's New 26B
+- Pillar: scm  |  Module: Supply Planning  |  Release: 26B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/26b/scp26b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Transportation Management What's New 26B
+- Pillar: scm  |  Module: Transportation Management  |  Release: 26B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/logistics/26b/otm26b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Warehouse Management What's New 26B
+- Pillar: scm  |  Module: Warehouse Management  |  Release: 26B  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/logistics/26b/wms26b/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Common Technologies and User Experience What's New 26C
+- Pillar: scm  |  Module: Common Technologies and User Experience  |  Release: 26C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/common/26c/common26c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Demand Management What's New 26C
+- Pillar: scm  |  Module: Demand Management  |  Release: 26C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/26c/demand26c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Global Trade Management What's New 26C
+- Pillar: scm  |  Module: Global Trade Management  |  Release: 26C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/logistics/26c/gtm26c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Inventory Management What's New 26C
+- Pillar: scm  |  Module: Inventory Management  |  Release: 26C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/26c/inv26c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Maintenance What's New 26C
+- Pillar: scm  |  Module: Maintenance  |  Release: 26C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/26c/maint26c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Manufacturing What's New 26C
+- Pillar: scm  |  Module: Manufacturing  |  Release: 26C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/26c/mfg26c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Order Management What's New 26C
+- Pillar: scm  |  Module: Order Management  |  Release: 26C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/26c/order26c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Procurement What's New 26C
+- Pillar: scm  |  Module: Procurement  |  Release: 26C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/26c/proc26c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Product Lifecycle Management What's New 26C
+- Pillar: scm  |  Module: Product Lifecycle Management  |  Release: 26C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/26c/plm26c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Sales and Operations Planning What's New 26C
+- Pillar: scm  |  Module: Sales and Operations Planning  |  Release: 26C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/26c/sop26c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Self Service Procurement What's New 26C
+- Pillar: scm  |  Module: Self Service Procurement  |  Release: 26C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/26c/ssproc26c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Supply Chain Collaboration What's New 26C
+- Pillar: scm  |  Module: Supply Chain Collaboration  |  Release: 26C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/26c/sccv26c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Supply Planning What's New 26C
+- Pillar: scm  |  Module: Supply Planning  |  Release: 26C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/scm/26c/scp26c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Transportation Management What's New 26C
+- Pillar: scm  |  Module: Transportation Management  |  Release: 26C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/logistics/26c/otm26c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Warehouse Management What's New 26C
+- Pillar: scm  |  Module: Warehouse Management  |  Release: 26C  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/logistics/26c/wms26c/index.html
+
+Learn what's new in this release and how to plan your upgrade.
+
+## Browse our collection of past Logistics publications
+- Pillar: scm  |  Module: Browse our collection of past Logistics publications  |  Release: Unknown  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/www.oracle.com/webfolder/technetwork/tutorials/tutorial/readiness/offering/index.html?product=wms-21
+
+## Browse our collection of past SCM publications
+- Pillar: scm  |  Module: Browse our collection of past SCM publications  |  Release: Unknown  |  Impact: n/a
+- HTML: https://docs.oracle.com/en/cloud/saas/readiness/www.oracle.com/webfolder/technetwork/tutorials/tutorial/readiness/offering/index.html?product=scp-24
+
+[Back to main content](#)
+
+## Whats New in Oracle Fusion Data Intelligence
+- Pillar: scm  |  Module: Whats New in Oracle Fusion Data Intelligence  |  Release: Unknown  |  Impact: n/a
 - HTML: https://docs.oracle.com/en/cloud/saas/readiness/../analytics/26r2/fawwn/index.html
 - PDF: https://docs.oracle.com/en/cloud/saas/readiness/../analytics/26r2/fawwn/whats-new-oracle-fusion-data-intelligence.pdf
 
