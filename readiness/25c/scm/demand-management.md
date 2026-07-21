@@ -9,7 +9,7 @@
 
 | Feature | Enablement | Flags | Oracle |
 |---------|-----------|-------|--------|
-| Demand Management What's New 25C | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/scm/25c/demand25c/index.html) |
+| [Demand Management What's New 25C](https://github.com/stockem76/OracleReadiness/blob/main/readiness/25c/scm/demand-management/demand-management-what-s-new-25c.md) | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/scm/25c/demand25c/index.html) |
 
 ---
 *Oracle Cloud Readiness · 25C · SCM*
