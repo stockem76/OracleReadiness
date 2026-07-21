@@ -9,7 +9,7 @@
 
 | Feature | Enablement | Flags | Oracle |
 |---------|-----------|-------|--------|
-| Benefits What's New 26A | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/hcm/26a/benf-26a/index.html) |
+| [Benefits What's New 26A](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26a/hcm/benefits/benefits-what-s-new-26a.md) | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/hcm/26a/benf-26a/index.html) |
 
 ---
 *Oracle Cloud Readiness · 26A · HCM*
