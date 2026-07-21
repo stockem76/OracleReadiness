@@ -9,7 +9,7 @@
 
 | Feature | Enablement | Flags | Oracle |
 |---------|-----------|-------|--------|
-| Payroll What's New 25C | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/hcm/25c/payr-25c/index.html) |
+| [Payroll What's New 25C](https://github.com/stockem76/OracleReadiness/blob/main/readiness/25c/hcm/payroll/payroll-what-s-new-25c.md) | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/hcm/25c/payr-25c/index.html) |
 
 ---
 *Oracle Cloud Readiness · 25C · HCM*
