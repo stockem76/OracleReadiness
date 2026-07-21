@@ -1,0 +1,18 @@
+[📋 24A](https://github.com/stockem76/OracleReadiness/blob/main/readiness/24a/index.md)
+
+# Enterprise Resource Planning — 24A
+
+| Module | Features | Steps | Tips | Optional |
+|--------|---------|-------|------|----------|
+| [Accounting Hub](https://github.com/stockem76/OracleReadiness/blob/main/readiness/24a/erp/accounting-hub.md) | 1 | 0 | 0 | 0 |
+| [Common Technologies and User Experience](https://github.com/stockem76/OracleReadiness/blob/main/readiness/24a/erp/common-technologies-and-user-experience.md) | 1 | 0 | 0 | 0 |
+| [Financial Reporting Compliance](https://github.com/stockem76/OracleReadiness/blob/main/readiness/24a/erp/financial-reporting-compliance.md) | 1 | 0 | 0 | 0 |
+| [Financials](https://github.com/stockem76/OracleReadiness/blob/main/readiness/24a/erp/financials.md) | 1 | 0 | 0 | 0 |
+| [Procurement](https://github.com/stockem76/OracleReadiness/blob/main/readiness/24a/erp/procurement.md) | 1 | 0 | 0 | 0 |
+| [Project Management](https://github.com/stockem76/OracleReadiness/blob/main/readiness/24a/erp/project-management.md) | 1 | 0 | 0 | 0 |
+| [Risk Management](https://github.com/stockem76/OracleReadiness/blob/main/readiness/24a/erp/risk-management.md) | 1 | 0 | 0 | 0 |
+| [Self Service Financials](https://github.com/stockem76/OracleReadiness/blob/main/readiness/24a/erp/self-service-financials.md) | 1 | 0 | 0 | 0 |
+| [Self Service Procurement](https://github.com/stockem76/OracleReadiness/blob/main/readiness/24a/erp/self-service-procurement.md) | 1 | 0 | 0 | 0 |
+
+---
+*Oracle Cloud Readiness · 24A · ERP*
