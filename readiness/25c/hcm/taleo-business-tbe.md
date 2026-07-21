@@ -9,7 +9,7 @@
 
 | Feature | Enablement | Flags | Oracle |
 |---------|-----------|-------|--------|
-| Taleo Business (TBE) What's New 25C | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/hcm/25c/tale-25c/index.html) |
+| [Taleo Business (TBE) What's New 25C](https://github.com/stockem76/OracleReadiness/blob/main/readiness/25c/hcm/taleo-business-tbe/taleo-business-tbe-what-s-new-25c.md) | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/hcm/25c/tale-25c/index.html) |
 
 ---
 *Oracle Cloud Readiness · 25C · HCM*
