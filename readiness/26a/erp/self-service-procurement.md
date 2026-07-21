@@ -9,7 +9,7 @@
 
 | Feature | Enablement | Flags | Oracle |
 |---------|-----------|-------|--------|
-| Self Service Procurement What's New 26A | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/scm/26a/ssproc26a/index.html) |
+| [Self Service Procurement What's New 26A](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26a/erp/self-service-procurement/self-service-procurement-what-s-new-26a.md) | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/scm/26a/ssproc26a/index.html) |
 
 ---
 *Oracle Cloud Readiness · 26A · ERP*
