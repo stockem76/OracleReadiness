@@ -9,7 +9,7 @@
 
 | Feature | Enablement | Flags | Oracle |
 |---------|-----------|-------|--------|
-| Work Life What's New 26C | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/hcm/26c/woli-26c/index.html) |
+| [Redwood Experience for Corporate Citizenship](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/hcm/work-life/redwood-experience-for-corporate-citizenship.md) | — | ⚙️💡 | [↗](https://docs.oracle.com/en/cloud/saas/readiness/hcm/26c/woli-26c/26C-worklife-wn-f49929.htm) |
 
 ---
 *Oracle Cloud Readiness · 26C · HCM*
