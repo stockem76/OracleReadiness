@@ -9,7 +9,7 @@
 
 | Feature | Enablement | Flags | Oracle |
 |---------|-----------|-------|--------|
-| B2C Knowledge Management What's New 25D | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/service/25d/b2c-km25d/index.html) |
+| [B2C Knowledge Management What's New 25D](https://github.com/stockem76/OracleReadiness/blob/main/readiness/25d/service/b2c-knowledge-management/b2c-knowledge-management-what-s-new-25d.md) | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/service/25d/b2c-km25d/index.html) |
 
 ---
 *Oracle Cloud Readiness · 25D · SERVICE*
