@@ -9,7 +9,7 @@
 
 | Feature | Enablement | Flags | Oracle |
 |---------|-----------|-------|--------|
-| B2C Service Center What's New 26A | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/service/26a/b2c-svc26a/index.html) |
+| [B2C Service Center What's New 26A](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26a/service/b2c-service-center/b2c-service-center-what-s-new-26a.md) | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/service/26a/b2c-svc26a/index.html) |
 
 ---
 *Oracle Cloud Readiness · 26A · SERVICE*
