@@ -9,7 +9,7 @@
 
 | Feature | Enablement | Flags | Oracle |
 |---------|-----------|-------|--------|
-| Supply Planning What's New 25C | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/scm/25c/scp25c/index.html) |
+| [Supply Planning What's New 25C](https://github.com/stockem76/OracleReadiness/blob/main/readiness/25c/scm/supply-planning/supply-planning-what-s-new-25c.md) | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/scm/25c/scp25c/index.html) |
 
 ---
 *Oracle Cloud Readiness · 25C · SCM*
