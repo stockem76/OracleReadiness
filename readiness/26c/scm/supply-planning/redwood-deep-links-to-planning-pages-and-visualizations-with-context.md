@@ -4,7 +4,7 @@
 
 `⚙️ Steps to Enable` · `💡 Tips & Considerations` · `🔐 Access Requirements`
 
-> 📖 [View on Oracle Help Center](https://docs.oracle.com/en/cloud/saas/readiness/scm/26c/scp26c/26C-sc-planning-wn-f45843.htm)
+> 📖 [View on Oracle Help Center](https://docs.oracle.com/en/cloud/saas/readiness/scm/26c/scp26c/26C-sc-planning-wn-f45842.htm)
 
 You can now navigate between planning pages using deep links that preserve context such as plan, page, page group, visualization, and filter details. It improves analysis efficiency by directly accessing relevant pages or visualizations with up to five filter context values applied. This also supports better exception and resource overload analysis by linking related plan outputs across different plan types or applications.
 
