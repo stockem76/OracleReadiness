@@ -9,7 +9,7 @@
 
 | Feature | Enablement | Flags | Oracle |
 |---------|-----------|-------|--------|
-| Dynamic Skills What's New 26B | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/hcm/26b/dyns-26b/index.html) |
+| [Dynamic Skills What's New 26B](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26b/hcm/dynamic-skills/dynamic-skills-what-s-new-26b.md) | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/hcm/26b/dyns-26b/index.html) |
 
 ---
 *Oracle Cloud Readiness · 26B · HCM*
