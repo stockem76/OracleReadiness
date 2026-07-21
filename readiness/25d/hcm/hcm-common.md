@@ -9,7 +9,7 @@
 
 | Feature | Enablement | Flags | Oracle |
 |---------|-----------|-------|--------|
-| HCM Common What's New 25D | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/hcm/25d/hcom-25d/index.html) |
+| [HCM Common What's New 25D](https://github.com/stockem76/OracleReadiness/blob/main/readiness/25d/hcm/hcm-common/hcm-common-what-s-new-25d.md) | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/hcm/25d/hcom-25d/index.html) |
 
 ---
 *Oracle Cloud Readiness · 25D · HCM*
