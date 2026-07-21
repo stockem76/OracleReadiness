@@ -9,7 +9,7 @@
 
 | Feature | Enablement | Flags | Oracle |
 |---------|-----------|-------|--------|
-| Product Lifecycle Management What's New 26A | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/scm/26a/plm26a/index.html) |
+| [Product Lifecycle Management What's New 26A](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26a/scm/product-lifecycle-management/product-lifecycle-management-what-s-new-26a.md) | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/scm/26a/plm26a/index.html) |
 
 ---
 *Oracle Cloud Readiness · 26A · SCM*
