@@ -9,7 +9,7 @@
 
 | Feature | Enablement | Flags | Oracle |
 |---------|-----------|-------|--------|
-| Maintenance What's New 25C | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/scm/25c/maint25c/index.html) |
+| [Maintenance What's New 25C](https://github.com/stockem76/OracleReadiness/blob/main/readiness/25c/scm/maintenance/maintenance-what-s-new-25c.md) | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/scm/25c/maint25c/index.html) |
 
 ---
 *Oracle Cloud Readiness · 25C · SCM*
