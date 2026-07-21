@@ -5,7 +5,7 @@
 
 | Features | With Steps | With Tips | Optional Uptake |
 |----------|-----------|-----------|-----------------|
-| 1 | 0 | 0 | 0 |
+| 1 | 39 | 29 | 5 |
 
 | Feature | Enablement | Flags | Oracle |
 |---------|-----------|-------|--------|
