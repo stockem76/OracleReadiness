@@ -9,7 +9,7 @@
 
 | Feature | Enablement | Flags | Oracle |
 |---------|-----------|-------|--------|
-| Procurement What's New 26C | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/scm/26c/proc26c/index.html) |
+| [Procurement What's New 26C](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/erp/procurement/procurement-what-s-new-26c.md) | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/scm/26c/proc26c/index.html) |
 
 ---
 *Oracle Cloud Readiness · 26C · ERP*
