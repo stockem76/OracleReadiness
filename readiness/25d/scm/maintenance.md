@@ -9,7 +9,7 @@
 
 | Feature | Enablement | Flags | Oracle |
 |---------|-----------|-------|--------|
-| Maintenance What's New 25D | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/scm/25d/maint25d/index.html) |
+| [Maintenance What's New 25D](https://github.com/stockem76/OracleReadiness/blob/main/readiness/25d/scm/maintenance/maintenance-what-s-new-25d.md) | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/scm/25d/maint25d/index.html) |
 
 ---
 *Oracle Cloud Readiness · 25D · SCM*
