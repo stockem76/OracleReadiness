@@ -9,7 +9,7 @@
 
 | Feature | Enablement | Flags | Oracle |
 |---------|-----------|-------|--------|
-| Common Technologies and User Experience What's New 25C | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/common/25c/common25c/index.html) |
+| [Common Technologies and User Experience What's New 25C](https://github.com/stockem76/OracleReadiness/blob/main/readiness/25c/scm/common-technologies-and-user-experience/common-technologies-and-user-experience-what-s-new-25c.md) | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/common/25c/common25c/index.html) |
 
 ---
 *Oracle Cloud Readiness · 25C · SCM*
