@@ -9,7 +9,7 @@
 
 | Feature | Enablement | Flags | Oracle |
 |---------|-----------|-------|--------|
-| Procurement What's New 26B | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/scm/26b/proc26b/index.html) |
+| [Procurement What's New 26B](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26b/scm/procurement/procurement-what-s-new-26b.md) | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/scm/26b/proc26b/index.html) |
 
 ---
 *Oracle Cloud Readiness · 26B · SCM*
