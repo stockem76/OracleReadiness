@@ -9,7 +9,7 @@
 
 | Feature | Enablement | Flags | Oracle |
 |---------|-----------|-------|--------|
-| Global Trade Management What's New 26B | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/logistics/26b/gtm26b/index.html) |
+| [Global Trade Management What's New 26B](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26b/scm/global-trade-management/global-trade-management-what-s-new-26b.md) | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/logistics/26b/gtm26b/index.html) |
 
 ---
 *Oracle Cloud Readiness · 26B · SCM*
