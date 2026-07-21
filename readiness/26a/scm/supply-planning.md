@@ -9,7 +9,7 @@
 
 | Feature | Enablement | Flags | Oracle |
 |---------|-----------|-------|--------|
-| Supply Planning What's New 26A | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/scm/26a/scp26a/index.html) |
+| [Supply Planning What's New 26A](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26a/scm/supply-planning/supply-planning-what-s-new-26a.md) | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/scm/26a/scp26a/index.html) |
 
 ---
 *Oracle Cloud Readiness · 26A · SCM*
