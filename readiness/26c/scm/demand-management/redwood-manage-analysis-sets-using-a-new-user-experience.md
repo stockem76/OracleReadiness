@@ -4,7 +4,7 @@
 
 `⚙️ Steps to Enable` · `💡 Tips & Considerations` · `🔐 Access Requirements`
 
-> 📖 [View on Oracle Help Center](https://docs.oracle.com/en/cloud/saas/readiness/scm/26c/demand26c/26C-demand-wn-f45811.htm)
+> 📖 [View on Oracle Help Center](https://docs.oracle.com/en/cloud/saas/readiness/scm/26c/demand26c/26C-demand-wn-f45814.htm)
 
 You can now create, edit, delete, and apply analysis sets from the Visualizations and Analysis Sets page in Redwood. Analysis sets let you save commonly used measures and members and apply them to tables and graphs or use them as focused data views without creating filters. You can also use analysis sets as filters on forecasting profiles to limit their scope to subsets of members. The changes made to analysis sets don’t affect visualizations where they were previously applied, and stable analysis is ensured.
 
