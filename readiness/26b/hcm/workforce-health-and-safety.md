@@ -9,7 +9,7 @@
 
 | Feature | Enablement | Flags | Oracle |
 |---------|-----------|-------|--------|
-| Workforce Health and Safety What's New 26B | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/hcm/26b/wohs-26b/index.html) |
+| [Workforce Health and Safety What's New 26B](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26b/hcm/workforce-health-and-safety/workforce-health-and-safety-what-s-new-26b.md) | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/hcm/26b/wohs-26b/index.html) |
 
 ---
 *Oracle Cloud Readiness · 26B · HCM*
