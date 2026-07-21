@@ -9,7 +9,7 @@
 
 | Feature | Enablement | Flags | Oracle |
 |---------|-----------|-------|--------|
-| Warehouse Management What's New 25C | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/logistics/25c/wms25c/index.html) |
+| [Warehouse Management What's New 25C](https://github.com/stockem76/OracleReadiness/blob/main/readiness/25c/scm/warehouse-management/warehouse-management-what-s-new-25c.md) | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/logistics/25c/wms25c/index.html) |
 
 ---
 *Oracle Cloud Readiness · 25C · SCM*
