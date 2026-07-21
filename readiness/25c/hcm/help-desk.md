@@ -9,7 +9,7 @@
 
 | Feature | Enablement | Flags | Oracle |
 |---------|-----------|-------|--------|
-| Help Desk What's New 25C | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/service/25c/shde-25c/index.html) |
+| [Help Desk What's New 25C](https://github.com/stockem76/OracleReadiness/blob/main/readiness/25c/hcm/help-desk/help-desk-what-s-new-25c.md) | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/service/25c/shde-25c/index.html) |
 
 ---
 *Oracle Cloud Readiness · 25C · HCM*
