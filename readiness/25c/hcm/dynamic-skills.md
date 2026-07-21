@@ -9,7 +9,7 @@
 
 | Feature | Enablement | Flags | Oracle |
 |---------|-----------|-------|--------|
-| Dynamic Skills What's New 25C | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/hcm/25c/dyns-25c/index.html) |
+| [Dynamic Skills What's New 25C](https://github.com/stockem76/OracleReadiness/blob/main/readiness/25c/hcm/dynamic-skills/dynamic-skills-what-s-new-25c.md) | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/hcm/25c/dyns-25c/index.html) |
 
 ---
 *Oracle Cloud Readiness · 25C · HCM*
