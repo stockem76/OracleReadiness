@@ -9,7 +9,7 @@
 
 | Feature | Enablement | Flags | Oracle |
 |---------|-----------|-------|--------|
-| Common Technologies and User Experience What's New 26B | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/common/26b/common26b/index.html) |
+| [Common Technologies and User Experience What's New 26B](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26b/scm/common-technologies-and-user-experience/common-technologies-and-user-experience-what-s-new-26b.md) | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/common/26b/common26b/index.html) |
 
 ---
 *Oracle Cloud Readiness · 26B · SCM*
