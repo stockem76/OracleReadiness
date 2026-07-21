@@ -1,5 +1,5 @@
 # Oracle Cloud Readiness Report
-Generated: 2026-07-21 12:26 UTC
+Generated: 2026-07-21 12:42 UTC
 Source: [Readiness Reports Center](https://www.oracle.com/webfolder/technetwork/tutorials/tutorial/readiness/app/index.html)
 Filters: `{"pillars": ["erp", "scm", "hcm", "service"], "modules": null, "releases": null, "query": null}`
 Total matched: 556
