@@ -9,7 +9,7 @@
 
 | Feature | Enablement | Flags | Oracle |
 |---------|-----------|-------|--------|
-| Sales and Operations Planning What's New 26A | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/scm/26a/sop26a/index.html) |
+| [Sales and Operations Planning What's New 26A](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26a/scm/sales-and-operations-planning/sales-and-operations-planning-what-s-new-26a.md) | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/scm/26a/sop26a/index.html) |
 
 ---
 *Oracle Cloud Readiness · 26A · SCM*
