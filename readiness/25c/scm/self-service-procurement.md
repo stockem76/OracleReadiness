@@ -9,7 +9,7 @@
 
 | Feature | Enablement | Flags | Oracle |
 |---------|-----------|-------|--------|
-| Self Service Procurement What's New 25C | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/scm/25c/ssproc25c/index.html) |
+| [Self Service Procurement What's New 25C](https://github.com/stockem76/OracleReadiness/blob/main/readiness/25c/scm/self-service-procurement/self-service-procurement-what-s-new-25c.md) | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/scm/25c/ssproc25c/index.html) |
 
 ---
 *Oracle Cloud Readiness · 25C · SCM*
