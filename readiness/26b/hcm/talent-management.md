@@ -9,7 +9,7 @@
 
 | Feature | Enablement | Flags | Oracle |
 |---------|-----------|-------|--------|
-| Talent Management What's New 26B | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/hcm/26b/tama-26b/index.html) |
+| [Talent Management What's New 26B](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26b/hcm/talent-management/talent-management-what-s-new-26b.md) | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/hcm/26b/tama-26b/index.html) |
 
 ---
 *Oracle Cloud Readiness · 26B · HCM*
