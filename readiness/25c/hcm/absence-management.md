@@ -9,7 +9,7 @@
 
 | Feature | Enablement | Flags | Oracle |
 |---------|-----------|-------|--------|
-| Absence Management What's New 25C | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/hcm/25c/amg-25c/index.html) |
+| [Absence Management What's New 25C](https://github.com/stockem76/OracleReadiness/blob/main/readiness/25c/hcm/absence-management/absence-management-what-s-new-25c.md) | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/hcm/25c/amg-25c/index.html) |
 
 ---
 *Oracle Cloud Readiness · 25C · HCM*
