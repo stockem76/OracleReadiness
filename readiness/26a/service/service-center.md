@@ -9,7 +9,7 @@
 
 | Feature | Enablement | Flags | Oracle |
 |---------|-----------|-------|--------|
-| Service Center What's New 26A | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/service/26a/bsvc-26a/index.html) |
+| [Service Center What's New 26A](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26a/service/service-center/service-center-what-s-new-26a.md) | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/service/26a/bsvc-26a/index.html) |
 
 ---
 *Oracle Cloud Readiness · 26A · SERVICE*
