@@ -9,7 +9,7 @@
 
 | Feature | Enablement | Flags | Oracle |
 |---------|-----------|-------|--------|
-| Supply Chain Collaboration What's New 26A | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/scm/26a/sccv26a/index.html) |
+| [Supply Chain Collaboration What's New 26A](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26a/scm/supply-chain-collaboration/supply-chain-collaboration-what-s-new-26a.md) | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/scm/26a/sccv26a/index.html) |
 
 ---
 *Oracle Cloud Readiness · 26A · SCM*
