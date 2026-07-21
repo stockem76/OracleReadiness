@@ -9,7 +9,7 @@
 
 | Feature | Enablement | Flags | Oracle |
 |---------|-----------|-------|--------|
-| Warehouse Management What's New 26A | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/logistics/26a/wms26a/index.html) |
+| [Warehouse Management What's New 26A](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26a/scm/warehouse-management/warehouse-management-what-s-new-26a.md) | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/logistics/26a/wms26a/index.html) |
 
 ---
 *Oracle Cloud Readiness · 26A · SCM*
