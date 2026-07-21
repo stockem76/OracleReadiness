@@ -9,7 +9,7 @@
 
 | Feature | Enablement | Flags | Oracle |
 |---------|-----------|-------|--------|
-| Compensation What's New 26A | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/hcm/26a/comp-26a/index.html) |
+| [Compensation What's New 26A](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26a/hcm/compensation/compensation-what-s-new-26a.md) | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/hcm/26a/comp-26a/index.html) |
 
 ---
 *Oracle Cloud Readiness · 26A · HCM*
