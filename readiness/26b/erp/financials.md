@@ -9,7 +9,7 @@
 
 | Feature | Enablement | Flags | Oracle |
 |---------|-----------|-------|--------|
-| Financials What's New 26B | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/erp/26b/fins26b/index.html) |
+| [Financials What's New 26B](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26b/erp/financials/financials-what-s-new-26b.md) | — | — | [↗](https://docs.oracle.com/en/cloud/saas/readiness/erp/26b/fins26b/index.html) |
 
 ---
 *Oracle Cloud Readiness · 26B · ERP*
