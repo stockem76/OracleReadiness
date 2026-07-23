@@ -4,7 +4,7 @@
 
 `⚙️ Steps to Enable` · `💡 Tips & Considerations` · `🔐 Access Requirements`
 
-> 📖 [View on Oracle Help Center](https://docs.oracle.com/en/cloud/saas/readiness/scm/26c/demand26c/26C-demand-wn-f45813.htm)
+> 📖 [View on Oracle Help Center](https://docs.oracle.com/en/cloud/saas/readiness/scm/26c/demand26c/26C-demand-wn-f45812.htm)
 
 You can now use the Redwood interface to compare a plan to its archived versions. You can select a total of three plans and archived versions. You can view plans, archived versions, or both when selecting the comparison, with the default set to plans. The compared measure values are displayed in a table for the original plan alongside the measure values for the selected plans and archived versions, and separate graphs are displayed for each compared item for improved clarity over the previous single-graph view.
 
