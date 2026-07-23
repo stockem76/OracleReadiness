@@ -4,7 +4,7 @@
 
 `⚙️ Steps to Enable` · `💡 Tips & Considerations` · `🔐 Access Requirements`
 
-> 📖 [View on Oracle Help Center](https://docs.oracle.com/en/cloud/saas/readiness/scm/26c/proc26c/26C-procurement-wn-f43314.htm)
+> 📖 [View on Oracle Help Center](https://docs.oracle.com/en/cloud/saas/readiness/scm/26c/ssproc26c/26C-ssproc-wn-f43314.htm)
 
 You can now view additional information about the preparers, requesters, buyers, and approvers on requisitions and purchase orders. In addition to details such as name, job title, manager name, and department, you can also view contact information such as email, work phone, and work address.
 
