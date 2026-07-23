@@ -4,7 +4,7 @@
 
 | Module | Features | Steps | Tips | Optional |
 |--------|---------|-------|------|----------|
-| [Common Technologies and User Experience](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/scm/common-technologies-and-user-experience.md) | 24 | 24 | 2 | 1 |
+| [Common Technologies and User Experience](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/scm/common-technologies-and-user-experience.md) | 1 | 0 | 0 | 0 |
 | [Demand Management](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/scm/demand-management.md) | 18 | 12 | 9 | 0 |
 | [Global Trade Management](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/scm/global-trade-management.md) | 30 | 30 | 20 | 0 |
 | [Inventory Management](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/scm/inventory-management.md) | 42 | 42 | 31 | 6 |
