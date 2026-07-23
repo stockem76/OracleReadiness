@@ -6,7 +6,7 @@
 |--------|---------|-------|------|----------|
 | [Absence Management](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/hcm/absence-management.md) | 9 | 9 | 1 | 0 |
 | [Benefits](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/hcm/benefits.md) | 10 | 10 | 10 | 0 |
-| [Common Technologies and User Experience](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/hcm/common-technologies-and-user-experience.md) | 1 | 0 | 0 | 0 |
+| [Common Technologies and User Experience](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/hcm/common-technologies-and-user-experience.md) | 24 | 24 | 2 | 1 |
 | [Compensation](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/hcm/compensation.md) | 14 | 14 | 8 | 6 |
 | [Dynamic Skills](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/hcm/dynamic-skills.md) | 5 | 5 | 3 | 0 |
 | [HCM Common](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/hcm/hcm-common.md) | 8 | 8 | 2 | 0 |
