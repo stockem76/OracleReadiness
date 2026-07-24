@@ -4,7 +4,7 @@
 
 `🔧 Optional Uptake` · `⚙️ Steps to Enable` · `💡 Tips & Considerations` · `🔐 Access Requirements`
 
-> 📖 [View on Oracle Help Center](https://docs.oracle.com/en/cloud/saas/readiness/scm/26c/proc26c/26C-procurement-wn-f46551.htm)
+> 📖 [View on Oracle Help Center](https://docs.oracle.com/en/cloud/saas/readiness/scm/26c/ssproc26c/26C-ssproc-wn-f46551.htm)
 
 Initiate procurement activities for noncatalog goods and services using Intake Requests. You can either use an AI assistant to help with creating the request or manually create the request and submit it for review and approval.
 
