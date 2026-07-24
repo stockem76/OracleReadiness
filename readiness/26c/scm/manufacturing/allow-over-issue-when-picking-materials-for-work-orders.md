@@ -25,6 +25,8 @@ This feature increases warehouse efficiency and provides the following benefits:
 • Supports smoother shop floor execution and fewer delays in material staging and issue.
 • Simplifies reconciliation and surplus material management after completing production or maintenance.
 
+*Here's the demo of these capabilities:*
+
 ## ⚙️ Steps to Enable and Configure
 
 1.    In the Setup and Maintenance work area, search for the 'Manage Inventory Organizations' task.
