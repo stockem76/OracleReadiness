@@ -4,7 +4,7 @@
 
 `⚙️ Steps to Enable` · `🔐 Access Requirements`
 
-> 📖 [View on Oracle Help Center](https://docs.oracle.com/en/cloud/saas/readiness/erp/26c/ssfin26c/26C-ssfin-wn-f49363.htm)
+> 📖 [View on Oracle Help Center](https://docs.oracle.com/en/cloud/saas/readiness/erp/26c/fins26c/26C-fin-wn-f49363.htm)
 
 Use the Expenses Agent to split expenses across cost centers, projects, and tasks. The Expenses Agent also supports Flexible Key Flexfields (KFFs), allowing selected accounting segments to appear in the Redwood-theme Progressive Web App (PWA) user interface. These enhancements improve the accuracy of expense allocation and accounting.
 
