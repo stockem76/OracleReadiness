@@ -26,6 +26,8 @@ Updating and deleting a global standard operation is also processed by the Propa
 
 Centralizing standard operations management in the item master organization improves operational efficiency. It also maintains data integrity by automating synchronization of changes across manufacturing plants.
 
+*Here's the demo of these capabilities:*
+
 ## ⚙️ Steps to Enable and Configure
 
 Use the Opt In UI to enable this feature. For instructions, refer to the Optional Uptake of New Features section of this document.
