@@ -4,7 +4,7 @@
 
 `⚙️ Steps to Enable` · `🔐 Access Requirements`
 
-> 📖 [View on Oracle Help Center](https://docs.oracle.com/en/cloud/saas/readiness/scm/26c/demand26c/26C-demand-wn-f45793.htm)
+> 📖 [View on Oracle Help Center](https://docs.oracle.com/en/cloud/saas/readiness/scm/26c/demand26c/26C-demand-wn-f45797.htm)
 
 In previous updates, using the classic interface, you could configure tables and graphs to easily visualize trends and comparisons across plans and plan versions. This update provides a similar user experience in the Redwood interface.
 
