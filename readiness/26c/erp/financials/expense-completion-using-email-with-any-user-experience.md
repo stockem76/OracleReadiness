@@ -4,7 +4,7 @@
 
 `⚙️ Steps to Enable` · `💡 Tips & Considerations` · `🔐 Access Requirements`
 
-> 📖 [View on Oracle Help Center](https://docs.oracle.com/en/cloud/saas/readiness/erp/26c/ssfin26c/26C-ssfin-wn-f50451.htm)
+> 📖 [View on Oracle Help Center](https://docs.oracle.com/en/cloud/saas/readiness/erp/26c/fins26c/26C-fin-wn-f50451.htm)
 
 Users can email receipts directly to the Expenses Agent to create and complete expenses without ever entering the application. This option is available regardless of the application user experience - Redwood theme Progressive Web App (PWA) or otherwise. Details for the Expenses Agent using the PWA user experience is available in the General Adoption Guide and Detailed Adoption Guide.
 
