@@ -4,7 +4,7 @@
 
 `⚙️ Steps to Enable` · `💡 Tips & Considerations` · `🔐 Access Requirements`
 
-> 📖 [View on Oracle Help Center](https://docs.oracle.com/en/cloud/saas/readiness/scm/26c/demand26c/26C-demand-wn-f46376.htm)
+> 📖 [View on Oracle Help Center](https://docs.oracle.com/en/cloud/saas/readiness/scm/26c/demand26c/26C-demand-wn-f46374.htm)
 
 You can use the Redwood user experience to add, edit, and manage AI Agents as links tied to specific visualization, such as a table or a graph. The links can be reused across plans that include the visualization and can be edited or deleted by the link owner. This streamlines the access to related AI Agents by improving analysis speed and consistency.
 
@@ -38,221 +38,9 @@ The AI Agent link is now displayed in the Drill To menu.
 
 Chat Window of the Configured AI Agent
 
-Chat Window of the Configured AI Agent
-
-You can configure AI Agents such that you can access them directly from Supply Planning graphs and tables using the Drill To links.
-
-Bar Chart Showing Two AI Agent links in the Drill To Menu
-
-To add an agent link to a graph or table:
-
-1. From the **Actions** menu of the table or graph, select **Manage Links**.
-
-Manage Links Action Accessible From a Graph or Table’s Options Menu
-
-The Links drawer opens.
-
-Adding a Link to an AI Agent
-
-1. Select **Add**.
-2. From the Type drop down list, select the AI Agent.
-3. Select the name of the desired AI Agent. The AI Agent list displays the published AI Agent Teams assigned to Supply Chain Planning.
-
-A read-only Link Context section is displayed, showing that the context provided to the AI Agent is the highlighted selections and selected members from the graph or table. The current plan context is also provided.
-
-Configuring AI Agent Link
-
-1. Select **Save** and then close the Links panel.
-
-The AI Agent link is now displayed in the Drill To menu.
-
-1. Select the AI Agent from the Drill To menu. This opens the AI Chat, loading the configured AI Agent and passing in the selected context.
-
-Chat Window of the Configured AI Agent
-
-You can configure AI Agents such that you can access them directly from Supply Planning graphs and tables using the Drill To links.
-
-Bar Chart Showing Two AI Agent links in the Drill To Menu
-
-To add an agent link to a graph or table:
-
-1. From the **Actions** menu of the table or graph, select **Manage Links**.
-
-Manage Links Action Accessible From a Graph or Table’s Options Menu
-
-The Links drawer opens.
-
-Adding a Link to an AI Agent
-
-1. Select **Add**.
-2. From the Type drop down list, select the AI Agent.
-3. Select the name of the desired AI Agent. The AI Agent list displays the published AI Agent Teams assigned to Supply Chain Planning.
-
-A read-only Link Context section is displayed, showing that the context provided to the AI Agent is the highlighted selections and selected members from the graph or table. The current plan context is also provided.
-
-Configuring AI Agent Link
-
-1. Select **Save** and then close the Links panel.
-
-The AI Agent link is now displayed in the Drill To menu.
-
-1. Select the AI Agent from the Drill To menu. This opens the AI Chat, loading the configured AI Agent and passing in the selected context.
-
-Chat Window of the Configured AI Agent
-
-You can configure AI Agents such that you can access them directly from Supply Planning graphs and tables using the Drill To links.
-
-Bar Chart Showing Two AI Agent links in the Drill To Menu
-
-To add an agent link to a graph or table:
-
-1. From the **Actions** menu of the table or graph, select **Manage Links**.
-
-Manage Links Action Accessible From a Graph or Table’s Options Menu
-
-The Links drawer opens.
-
-Adding a Link to an AI Agent
-
-1. Select **Add**.
-2. From the Type drop down list, select the AI Agent.
-3. Select the name of the desired AI Agent. The AI Agent list displays the published AI Agent Teams assigned to Supply Chain Planning.
-
-A read-only Link Context section is displayed, showing that the context provided to the AI Agent is the highlighted selections and selected members from the graph or table. The current plan context is also provided.
-
-Configuring AI Agent Link
-
-1. Select **Save** and then close the Links panel.
-
-The AI Agent link is now displayed in the Drill To menu.
-
-1. Select the AI Agent from the Drill To menu. This opens the AI Chat, loading the configured AI Agent and passing in the selected context.
-
-Chat Window of the Configured AI Agent
-
-You can configure AI Agents such that you can access them directly from Supply Planning graphs and tables using the Drill To links.
-
-Bar Chart Showing Two AI Agent links in the Drill To Menu
-
-To add an agent link to a graph or table:
-
-1. From the **Actions** menu of the table or graph, select **Manage Links**.
-
-Manage Links Action Accessible From a Graph or Table’s Options Menu
-
-The Links drawer opens.
-
-Adding a Link to an AI Agent
-
-1. Select **Add**.
-2. From the Type drop down list, select the AI Agent.
-3. Select the name of the desired AI Agent. The AI Agent list displays the published AI Agent Teams assigned to Supply Chain Planning.
-
-A read-only Link Context section is displayed, showing that the context provided to the AI Agent is the highlighted selections and selected members from the graph or table. The current plan context is also provided.
-
-Configuring AI Agent Link
-
-1. Select **Save** and then close the Links panel.
-
-The AI Agent link is now displayed in the Drill To menu.
-
-1. Select the AI Agent from the Drill To menu. This opens the AI Chat, loading the configured AI Agent and passing in the selected context.
-
-Chat Window of the Configured AI Agent
-
-You can configure AI Agents such that you can access them directly from Supply Planning graphs and tables using the Drill To links.
-
-Bar Chart Showing Two AI Agent links in the Drill To Menu
-
-To add an agent link to a graph or table:
-
-1. From the **Actions** menu of the table or graph, select **Manage Links**.
-
-Manage Links Action Accessible From a Graph or Table’s Options Menu
-
-The Links drawer opens.
-
-Adding a Link to an AI Agent
-
-1. Select **Add**.
-2. From the Type drop down list, select the AI Agent.
-3. Select the name of the desired AI Agent. The AI Agent list displays the published AI Agent Teams assigned to Supply Chain Planning.
-
-A read-only Link Context section is displayed, showing that the context provided to the AI Agent is the highlighted selections and selected members from the graph or table. The current plan context is also provided.
-
-Configuring AI Agent Link
-
-1. Select **Save** and then close the Links panel.
-
-The AI Agent link is now displayed in the Drill To menu.
-
-1. Select the AI Agent from the Drill To menu. This opens the AI Chat, loading the configured AI Agent and passing in the selected context.
-
-Chat Window of the Configured AI Agent
-
-You can configure AI Agents such that you can access them directly from Supply Planning graphs and tables using the Drill To links.
-
-Bar Chart Showing Two AI Agent links in the Drill To Menu
-
-To add an agent link to a graph or table:
-
-1. From the **Actions** menu of the table or graph, select **Manage Links**.
-
-Manage Links Action Accessible From a Graph or Table’s Options Menu
-
-The Links drawer opens.
-
-Adding a Link to an AI Agent
-
-1. Select **Add**.
-2. From the Type drop down list, select the AI Agent.
-3. Select the name of the desired AI Agent. The AI Agent list displays the published AI Agent Teams assigned to Supply Chain Planning.
-
-A read-only Link Context section is displayed, showing that the context provided to the AI Agent is the highlighted selections and selected members from the graph or table. The current plan context is also provided.
-
-Configuring AI Agent Link
-
-1. Select **Save** and then close the Links panel.
-
-The AI Agent link is now displayed in the Drill To menu.
-
-1. Select the AI Agent from the Drill To menu. This opens the AI Chat, loading the configured AI Agent and passing in the selected context.
-
-Chat Window of the Configured AI Agent
-
-You can configure AI Agents such that you can access them directly from Supply Planning graphs and tables using the Drill To links.
-
-Bar Chart Showing Two AI Agent links in the Drill To Menu
-
-To add an agent link to a graph or table:
-
-1. From the **Actions** menu of the table or graph, select **Manage Links**.
-
-Manage Links Action Accessible From a Graph or Table’s Options Menu
-
-The Links drawer opens.
-
-Adding a Link to an AI Agent
-
-1. Select **Add**.
-2. From the Type drop down list, select the AI Agent.
-3. Select the name of the desired AI Agent. The AI Agent list displays the published AI Agent Teams assigned to Supply Chain Planning.
-
-A read-only Link Context section is displayed, showing that the context provided to the AI Agent is the highlighted selections and selected members from the graph or table. The current plan context is also provided.
-
-Configuring AI Agent Link
-
-1. Select **Save** and then close the Links panel.
-
-The AI Agent link is now displayed in the Drill To menu.
-
-1. Select the AI Agent from the Drill To menu. This opens the AI Chat, loading the configured AI Agent and passing in the selected context.
-
-Chat Window of the Configured AI Agent
-
 ## ⚙️ Steps to Enable and Configure
 
-While any published Supply Chain Planning AI agent is available in the manage links list, you must configure the selected agent to process the incoming data context. See Tips and Configuration for details.
+While any published Supply Chain Planning AI agents will be available in the manage links list, you must configure the selected agent to process the incoming data context. See Tips and Configuration for details.
 
 ## 💡 Tips and Considerations
 
@@ -265,12 +53,12 @@ The format of that contextual input will generally be as follows:
 The filter variables are defined as:
 
 • levelId represents the numeric variable type. 
-  • 1 = Item, 40 = Organization
+• 1 = Item, 40 = Organization
 • levelName the user-friendly type name (e.g., Item).
-• memberIds is an array of unique identifiers for that variable. 
-  • If multiple items are selected, for example, this would be a list of item ids.
-• memberName the user-friendly name of the object. 
-  • For a variable of Organization (levelId 40), the memberName would be the OrganizationCode, such as M1
+• memberIds is an array of unique identifiers for that variable.
+• If multiple items are selected, for example, this would be a list of item ids.
+• memberName the user-friendly name of the object.
+• For a variable of Organization (levelId 40), the memberName would be the OrganizationCode, such as M1
 
 You’ll want to add processing logic in your LLM Node.
 
@@ -287,8 +75,8 @@ For Users without the **Supply Chain Application Administrator**Job Role
 1. Navigate to the **Security Console** and create a custom role.
 2. In the Basic Information section, select Enable Permission Groups.
 3. In the Role Hierarchy section, go to the Roles and Privileges tab.
-4. Click Add Role and add the following two roles: 
-  • ORA_RCS_SCM_AI_AGENT_MANAGEMENT_DUTY
+4. Click Add Role and add the following two roles:
+• ORA_RCS_SCM_AI_AGENT_MANAGEMENT_DUTY
 • ORA_RCS_SCM_AI_AGENT_MANAGEMENT_DUTY_HCM
 5. Switch to the Roles and Permission Groups tab and associate your custom role with the Fai Genai Agent SCM Administrator Duty duty role (Code: ORA_DR_FAI_GENERATIVE_AI_AGENT_SCM_ADMINISTRATOR_DUTY).
 6. Once created, assign this new role to the users who will be managing your manage links using AI Agents.
