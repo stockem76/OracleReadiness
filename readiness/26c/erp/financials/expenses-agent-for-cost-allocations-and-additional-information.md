@@ -4,9 +4,9 @@
 
 `⚙️ Steps to Enable` · `🔐 Access Requirements`
 
-> 📖 [View on Oracle Help Center](https://docs.oracle.com/en/cloud/saas/readiness/erp/26c/ssfin26c/26C-ssfin-wn-f49363.htm)
+> 📖 [View on Oracle Help Center](https://docs.oracle.com/en/cloud/saas/readiness/erp/26c/fins26c/26C-fin-wn-f49363.htm)
 
-Use the Expenses Agent to split expenses across cost centers, projects, and tasks. The Expenses Agent also supports Flexible Key Flexfields (KFFs), allowing selected accounting segments to appear in the Redwood-theme Progressive Web App (PWA) user interface. These enhancements improve the accuracy of expense allocation and accounting.
+Use the Expenses Agent to split expenses across cost centers, projects, and tasks, monitor monthly and annual spending limits, and support Flexible Key Flexfields (KFFs) by displaying selected accounting segments in the Redwood-themed Progressive Web App (PWA). These enhancements improve the accuracy of expense allocation and accounting.
 
 • **Expense splitting:** Employees can split expenses across cost centers or assign them to projects and tasks.
 
@@ -17,11 +17,15 @@ Note: Splitting expenses to project and task will be available in 26C Cohort B.
 • **Flexible Key Flexfields**: Employees can charge expenses to the accounting segments configured for their business. 
   
 Charge to configured accounting segments.
+• **Monthly and Yearly Limits:** Monthly and yearly spending limits for Entertainment and Miscellaneous expenses are now supported.
+
+Monthly limit validation
 
 Business benefits include:
 
 • Split Allocation enables accurate distribution of expenses across accounts or across projects and tasks, improving cost tracking and increasing productivity.
 • Flexible KFF improves the expense entry experience by allowing only relevant accounting segments to be displayed in the PWA UI or captured through email, reducing complexity and improving completion accuracy.
+• Monthly and yearly limits help enforce spending policies by controlling expenses within defined thresholds, improving compliance with organizational expense policies.
 
 ## ⚙️ Steps to Enable and Configure
 
@@ -63,6 +67,11 @@ To use these capabilities, first enable Expenses Agent as outlined in the Expens
 5. Create and save a lookup code for **EXM_39339003**.
 
 **Note:** If Segment Value Security by Business Function (SVSBF) is enabled, you can’t use the Flexible Key Flexfield feature.
+
+• **Monthly/Yearly Limits:**
+• Monthly and yearly limits are applicable to the Miscellaneous and Entertainment expense type. 
+    • Use the steps outlined in the Entertainment Expense Policy document to set up an entertainment expense with a yearly policy limit.
+• Use the steps outlined in the Miscellaneous Expense Policy document to set up a miscellaneous expense with both monthly and yearly policy limits.
 
 ## 🔐 Access Requirements
 
