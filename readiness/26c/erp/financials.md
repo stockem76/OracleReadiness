@@ -5,7 +5,7 @@
 
 | Features | With Steps | With Tips | Optional Uptake |
 |----------|-----------|-----------|-----------------|
-| 44 | 44 | 34 | 5 |
+| 45 | 45 | 35 | 5 |
 
 | Feature | Enablement | Flags | Oracle |
 |---------|-----------|-------|--------|
@@ -24,6 +24,7 @@
 | [Cash Processing Agent for Receipt Processing and Cash Application](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/erp/financials/cash-processing-agent-for-receipt-processing-and-cash-application.md) | — | ⚙️💡 | [↗](https://docs.oracle.com/en/cloud/saas/readiness/erp/26c/fins26c/26C-fin-wn-f50544.htm) |
 | [Collector Workspace Agent for Prioritized Work Queue and Guided Resolution](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/erp/financials/collector-workspace-agent-for-prioritized-work-queue-and-guided-resolution.md) | — | ⚙️💡 | [↗](https://docs.oracle.com/en/cloud/saas/readiness/erp/26c/fins26c/26C-fin-wn-f49306.htm) |
 | [Consumption Allowance Revenue Recognition](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/erp/financials/consumption-allowance-revenue-recognition.md) | — | ⚙️💡 | [↗](https://docs.oracle.com/en/cloud/saas/readiness/erp/26c/fins26c/26C-fin-wn-f47279.htm) |
+| [Customer Billing Agent](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/erp/financials/customer-billing-agent.md) | — | ⚙️💡 | [↗](https://docs.oracle.com/en/cloud/saas/readiness/erp/26c/fins26c/26C-fin-wn-f50502.htm) |
 | [Expense Completion Using Email with Any User Experience](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/erp/financials/expense-completion-using-email-with-any-user-experience.md) | — | ⚙️💡 | [↗](https://docs.oracle.com/en/cloud/saas/readiness/erp/26c/ssfin26c/26C-ssfin-wn-f50451.htm) |
 | [Expenses Agent for Cash Advance Application](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/erp/financials/expenses-agent-for-cash-advance-application.md) | — | ⚙️💡 | [↗](https://docs.oracle.com/en/cloud/saas/readiness/erp/26c/ssfin26c/26C-ssfin-wn-f49974.htm) |
 | [Expenses Agent for Cost Allocations and Additional Information](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/erp/financials/expenses-agent-for-cost-allocations-and-additional-information.md) | — | ⚙️ | [↗](https://docs.oracle.com/en/cloud/saas/readiness/erp/26c/ssfin26c/26C-ssfin-wn-f49363.htm) |
