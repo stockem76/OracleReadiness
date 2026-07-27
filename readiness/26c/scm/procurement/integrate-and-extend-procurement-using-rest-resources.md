@@ -4,7 +4,7 @@
 
 `⚙️ Steps to Enable` · `🔐 Access Requirements`
 
-> 📖 [View on Oracle Help Center](https://docs.oracle.com/en/cloud/saas/readiness/scm/26c/proc26c/26C-procurement-wn-f46407.htm)
+> 📖 [View on Oracle Help Center](https://docs.oracle.com/en/cloud/saas/readiness/scm/26c/ssproc26c/26C-ssproc-wn-f46407.htm)
 
 In this release, Oracle Fusion Cloud Procurement and Oracle Fusion Cloud Self Service Procurement deliver new and modified REST resources to enable and simplify integration with external systems.
 
