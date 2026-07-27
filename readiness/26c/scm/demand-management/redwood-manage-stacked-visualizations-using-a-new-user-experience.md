@@ -4,7 +4,7 @@
 
 `⚙️ Steps to Enable` · `🔐 Access Requirements`
 
-> 📖 [View on Oracle Help Center](https://docs.oracle.com/en/cloud/saas/readiness/scm/26c/demand26c/26C-demand-wn-f45845.htm)
+> 📖 [View on Oracle Help Center](https://docs.oracle.com/en/cloud/saas/readiness/scm/26c/demand26c/26C-demand-wn-f45846.htm)
 
 Stacked Visualizations lets you assemble multiple analytic layers, such as line, stacked bar, area, scatter, waterfall graphs, and pivot-table snapshots, into one composite view. You can drag and drop a visualization atop another to create a stack. The last added visualization is displayed on top with a list to switch layers. Each layer retains its own measures, data, hierarchies, and layouts. Common filters such as plan, organization, item, category, and time, synchronize across the stack. Stacks support drill down and drill-to actions, with links managed per visualization, and include multiple plan comparison. Stacked layers can show multiple plan versions with unified legends, distinct patterns, and aligned time buckets. You can resize the entire stack. A maximum of 10 visualizations per stack are supported.
 
