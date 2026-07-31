@@ -4,7 +4,7 @@ Automatically generated from the Oracle Cloud Readiness catalogue.
 
 | Release | Features | Detail Pages |
 |---------|---------|-------------|
-| [26C](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/index.md) | 42 | 856 |
+| [26C](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/index.md) | 42 | 857 |
 | [26B](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26b/index.md) | 44 | 0 |
 | [26A](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26a/index.md) | 44 | 0 |
 | [25D](https://github.com/stockem76/OracleReadiness/blob/main/readiness/25d/index.md) | 46 | 0 |
