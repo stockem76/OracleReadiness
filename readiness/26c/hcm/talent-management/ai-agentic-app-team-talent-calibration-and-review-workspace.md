@@ -55,9 +55,7 @@ Managers can review the report before the calibration meeting and use data-backe
 
 • The default review period is the past review period with the start date closest to today. The default performance document is the document in that period with the end date closest to, but before, today.
 • Managers can choose other performance documents in the default review period if they’re the performance document manager for at least one document. They can also choose documents from up to two other review periods with end dates closest to today. The list shows the review period name and performance document name.
-• To be selected, a performance document must be a regular or anytime document, include an overall summary section, not be configured to use calculated ratings only and include manager manual overall summary rating. and have a completed manager evaluation task.
-• The selected performance document must have a rating model associated with the overall summary section which has a 'Minimum Distribution' configured for all valid rating levels.
-• Only employees assignments that have an in-progress manager evaluation task will be displayed in the workarea for calibration.
+• To be selected, a performance document must be a regular or anytime document, include an overall summary section, include manager overall summary ratings, and have a completed manager evaluation task.
 • Anytime Feedback, Requested Feedback, and Check-ins all use a 13-month lookback. Check-ins aren’t yet limited to the same review period as the selected performance document.
 • The Rating Distribution widget shows rating summaries against the target distribution, a line graph by rating level, and key insights. The graph compares your performance document ratings with the organizational target, based on the Minimum Distribution in the performance rating model. The overall summary rating model must have a Minimum Distribution for at least one rating level.
 • The Team Talent widget shows the employees you rated and whether AI recommends an adjustment or no change.
