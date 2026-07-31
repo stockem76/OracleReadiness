@@ -4,7 +4,7 @@
 
 `⚙️ Steps to Enable` · `💡 Tips & Considerations` · `🔐 Access Requirements`
 
-> 📖 [View on Oracle Help Center](https://docs.oracle.com/en/cloud/saas/readiness/scm/26c/ssproc26c/26C-ssproc-wn-f47246.htm)
+> 📖 [View on Oracle Help Center](https://docs.oracle.com/en/cloud/saas/readiness/scm/26c/proc26c/26C-procurement-wn-f47246.htm)
 
 Supply Chain Orchestration now supports receiving find numbers for substituted components from Oracle Supply Chain Planning and passing them to Oracle Manufacturing during work order creation.
 
