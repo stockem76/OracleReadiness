@@ -6,7 +6,7 @@
 
 > 📖 [View on Oracle Help Center](https://docs.oracle.com/en/cloud/saas/readiness/hcm/26c/dyns-26c/26C-dynamic-skills-wn-f49667.htm)
 
-Displays skills related to an employee for managers, in new Skills Center (*Team Skills Center >Employee*), by grouping them in tabs as follows:
+Displays skills related to an employee for managers, in Enhanced Skills Center (*Team Skills Center >Employee*), by grouping them in tabs as follows:
 
 • Required – Skills assigned by a manager
 • Self Developing – Skills voluntarily self-assigned by the employee
