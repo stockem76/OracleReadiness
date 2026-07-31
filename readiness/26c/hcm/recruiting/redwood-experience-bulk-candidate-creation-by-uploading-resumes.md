@@ -13,6 +13,7 @@ Uploading Multiples Resume Attachments
 Note that:
 
 • Bulk candidate creation uses an AI agent.
+• Bulk candidate creation runs asynchronously, allowing you to continue working while candidate records are being processed. When the process is complete, you'll receive a Worklist notification summarizing the results, including any successful, partially successful, or failed candidate creations. For partially successful records, the notification includes links to the affected candidate records so you can review and complete any missing information or attachments. For failed records, no link is provided because the candidate record wasn't created.
 • You can upload a maximum of 10 resume attachments. To upload more, you need to zip the resumes. The zip file can’t exceed 25 MB.
 • You can upload only 1 zip file at a time.
 • You can’t upload a zip file with other resume attachments.
@@ -29,9 +30,11 @@ For privileges, see the **Access Requirements** section.
 
 ## 🔐 Access Requirements
 
-Users need this privilege to use the Create Candidate action:
+Users need this privilege to use the Create Candidate action: Create or Update Candidate (IRC_CREATE_OR_UPDATE_CANDIDATE)
 
-• Create or Update Candidate (IRC_CREATE_OR_UPDATE_CANDIDATE)
+Recruiter role needs to be assigned the ORA_HCM_IRC_RECRUITER_WF_AGENT_ACCESS privilege.
+
+Hiring manager role needs to be assigned the ORA_HCM_IRC_HIRING_MGR_WF_AGENT_ACCESS privilege.
 
 ---
 *Oracle Cloud Readiness · 26C · HCM · Recruiting*
