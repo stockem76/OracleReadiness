@@ -9,6 +9,7 @@
 | [Procurement](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/erp/procurement.md) | 1 | 0 | 0 | 0 |
 | [Project Management](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/erp/project-management.md) | 19 | 19 | 18 | 5 |
 | [Risk Management](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/erp/risk-management.md) | 4 | 4 | 2 | 0 |
+| [Risk Management (Classic)](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/erp/risk-management-classic.md) | 4 | 4 | 2 | 0 |
 | [Self Service Financials](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/erp/self-service-financials.md) | 3 | 3 | 2 | 0 |
 | [Self Service Procurement](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/erp/self-service-procurement.md) | 1 | 0 | 0 | 0 |
 
