@@ -6,7 +6,7 @@
 
 > 📖 [View on Oracle Help Center](https://docs.oracle.com/en/cloud/saas/readiness/hcm/26c/tama-26c/26C-talent-mgmt-wn-f43921.htm)
 
-From this release, as administrators you can enable HR specialists to create performance and development goals on behalf of organization leaders. When HR specialists add a goal for a person who has the privileges to create organization goals from their Goals Center page, they’ll see a switch that allows them to publish the goal for that person’s organization. They need to set this switch to **On** position to publish the goal for persons in that organization leader’s hierarchy.
+From this release, as administrators you can enable HR specialists who are granted the **Create Organization Performance Goal for Others** aggregate privilege to create performance goals for a manager's hierarchy. When these HR specialists add a performance goal from their Goals Center page, they’ll see a switch that allows them to publish the goal for that person’s organization. They need to set this switch to the **On** position to publish the goal for the person's hierarchy.
 
 New Goal page
 
@@ -29,6 +29,8 @@ ORA_HRA_PERFORMANCE_DOCUMENTS_AND_GOALS_REDWOOD_ENABLED | Enable Redwood Perform
 **NOTE**: The Performance Document, Check-in, and Goals Center features are closely connected. So, the Redwood version of these pages can all be enabled or disabled only using the common ORA_HRA_PERFORMANCE_DOCUMENTS_AND_GOALS_REDWOOD_ENABLED profile option. These features can't be enabled individually.
 
 For more information, see How do I enable a profile option?.
+
+You need to ensure that the **Publish this goal for your organization** attribute is set to **Visible** when configuring business rules. For more information on how to do this, see How do I hide or show a field in Visual Builder Studio?.
 
 ## 🔐 Access Requirements
 
