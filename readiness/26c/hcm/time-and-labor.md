@@ -5,11 +5,12 @@
 
 | Features | With Steps | With Tips | Optional Uptake |
 |----------|-----------|-----------|-----------------|
-| 8 | 8 | 6 | 1 |
+| 9 | 9 | 6 | 1 |
 
 | Feature | Enablement | Flags | Oracle |
 |---------|-----------|-------|--------|
 | [Attestations display in Time Entries](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/hcm/time-and-labor/attestations-display-in-time-entries.md) | — | ⚙️💡 | [↗](https://docs.oracle.com/en/cloud/saas/readiness/hcm/26c/tila-26c/26C-time-labor-wn-f49899.htm) |
+| [Compensatory Time Interface Enhancements](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/hcm/time-and-labor/compensatory-time-interface-enhancements.md) | — | ⚙️ | [↗](https://docs.oracle.com/en/cloud/saas/readiness/hcm/26c/tila-26c/26C-time-labor-wn-f50592.htm) |
 | [New Redwood Time Profiles](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/hcm/time-and-labor/new-redwood-time-profiles.md) | — | ⚙️💡 | [↗](https://docs.oracle.com/en/cloud/saas/readiness/hcm/26c/tila-26c/26C-time-labor-wn-f49911.htm) |
 | [New Worker Time Card Approval](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/hcm/time-and-labor/new-worker-time-card-approval.md) | — | ⚙️🔧 | [↗](https://docs.oracle.com/en/cloud/saas/readiness/hcm/26c/tila-26c/26C-time-labor-wn-f49638.htm) |
 | [Redwood Time Card Enhancements](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/hcm/time-and-labor/redwood-time-card-enhancements.md) | — | ⚙️ | [↗](https://docs.oracle.com/en/cloud/saas/readiness/hcm/26c/tila-26c/26C-time-labor-wn-f49655.htm) |
