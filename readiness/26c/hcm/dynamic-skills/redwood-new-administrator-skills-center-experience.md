@@ -6,7 +6,7 @@
 
 > 📖 [View on Oracle Help Center](https://docs.oracle.com/en/cloud/saas/readiness/hcm/26c/dyns-26c/26C-dynamic-skills-wn-f49670.htm)
 
-Displays skills related to an employee for skills administrator, in new Skills Center (*Talent Profile Search > Talent Profile Details > Skill Center Section “Visit Skills Center”*), by grouping them in tabs as follows:
+Displays skills related to an employee for skills administrator, in Enhanced Skills Center (*Talent Profile Search > Talent Profile Details > Skill Center Section “Visit Skills Center”*), by grouping them in tabs as follows:
 
 • Required – Skills assigned by a manager
 • Self Developing – Skills voluntarily assigned by the employee
