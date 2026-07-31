@@ -115,16 +115,7 @@ If partial sync is selected and WMS does not find a prior successful run, WMS pr
 
 1. • No/ blank: WMS processes the payload using full sync behavior.
 • Yes: WMS creates missing inventory records and updates existing records without creating duplicates.
-2. Send the partial sync flag, if serial-controlled inventory is used.
-
-• Include partial_sync_flg in the interface payload.
-
-• • No/ blank: WMS uses existing full sync behavior.
-• true: WMS creates missing serial records and updates existing serial records without creating duplicates.
-
-**NOTE:** Do not send both run_nbr and erp_job_reference_nbr in the same payload.
-
-1. Configure the ERP on-hand processing timeout.
+2. Configure the ERP on-hand processing timeout.
 
 • Set the company parameter erp_on_hand_processing_timeout to define how many hours WMS should wait for ERP on-hand processing before releasing the snapshot job guardrail.
 • If the parameter is blank or incorrectly configured, WMS uses 24 hours as the default.
