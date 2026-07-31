@@ -26,7 +26,8 @@ You don't need to do anything to enable this feature.
 
 ## 💡 Tips and Considerations
 
-The approval history improvement is aligned whether the approval is done from the **Team Time Cards** page or the **Mass Submit and Approve Time Cards** process.
+• The approval history improvement is aligned whether the approval is done from the **Team Time Cards** page or the **Mass Submit and Approve Time Cards** process.
+• Continue using Task Configuration in the Oracle BPM Worklist application to create or modify OTL approval tasks. The ability to edit OTL approval tasks using the Redwood Transaction Console will be introduced in a future release.
 
 ---
 *Oracle Cloud Readiness · 26C · HCM · Time and Labor*
