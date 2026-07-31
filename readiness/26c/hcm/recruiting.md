@@ -5,7 +5,7 @@
 
 | Features | With Steps | With Tips | Optional Uptake |
 |----------|-----------|-----------|-----------------|
-| 49 | 49 | 14 | 0 |
+| 50 | 50 | 15 | 0 |
 
 | Feature | Enablement | Flags | Oracle |
 |---------|-----------|-------|--------|
@@ -31,6 +31,7 @@
 | [Redwood Experience: Capture Electronic Signature on Multiple Offer Documents](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/hcm/recruiting/redwood-experience-capture-electronic-signature-on-multiple-offer-documents.md) | — | ⚙️ | [↗](https://docs.oracle.com/en/cloud/saas/readiness/hcm/26c/recr-26c/26C-recruiting-wn-f46404.htm) |
 | [Redwood Experience: Categorize and Save Email Attachments Using AI Agent](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/hcm/recruiting/redwood-experience-categorize-and-save-email-attachments-using-ai-agent.md) | — | ⚙️💡 | [↗](https://docs.oracle.com/en/cloud/saas/readiness/hcm/26c/recr-26c/26C-recruiting-wn-f46382.htm) |
 | [Redwood Experience: Change Posting Locations of Non-Draft Job Requisitions](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/hcm/recruiting/redwood-experience-change-posting-locations-of-non-draft-job-requisitions.md) | — | ⚙️💡 | [↗](https://docs.oracle.com/en/cloud/saas/readiness/hcm/26c/recr-26c/26C-recruiting-wn-f47333.htm) |
+| [Redwood Experience: Collect More Info From Candidates During Offer Acceptance Flow](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/hcm/recruiting/redwood-experience-collect-more-info-from-candidates-during-offer-acceptance-flow.md) | — | ⚙️💡 | [↗](https://docs.oracle.com/en/cloud/saas/readiness/hcm/26c/recr-26c/26C-recruiting-wn-f50874.htm) |
 | [Redwood Experience: Create Interview Summary and Populate Questionnaires Using AI Agent](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/hcm/recruiting/redwood-experience-create-interview-summary-and-populate-questionnaires-using-ai-agent.md) | — | ⚙️ | [↗](https://docs.oracle.com/en/cloud/saas/readiness/hcm/26c/recr-26c/26C-recruiting-wn-f44548.htm) |
 | [Redwood Experience: Customize Payroll Section in the Create and Edit Job Offer Flows](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/hcm/recruiting/redwood-experience-customize-payroll-section-in-the-create-and-edit-job-offer-flows.md) | — | ⚙️ | [↗](https://docs.oracle.com/en/cloud/saas/readiness/hcm/26c/recr-26c/26C-recruiting-wn-f47364.htm) |
 | [Redwood Experience: Dedicated Security Privilege to Invite Recruiting Agents to Submit Candidates for a Job Requisition](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/hcm/recruiting/redwood-experience-dedicated-security-privilege-to-invite-recruiting-agents-to-submit-candidates-for-a-job-requisition.md) | — | ⚙️💡 | [↗](https://docs.oracle.com/en/cloud/saas/readiness/hcm/26c/recr-26c/26C-recruiting-wn-f49666.htm) |
