@@ -35,6 +35,14 @@ HR Creates Mass Team Sync Check-In Documents
 • Talent tab of Team Activity Center.
 • Performance Spotlight.
 
+**Upgrade to Team Sync Agent**
+
+  Team Sync Agent now retrieves data from questionnaire responses from employee and manager and conversation summary associated with the team sync or check-in document.
+
+To use team sync agent, you must enter the agent code in the page properties as shown below.
+
+Team Sync Agent Update
+
 ## 🎯 Business Benefit
 
 • Standardize recurring manager-led status update conversations
