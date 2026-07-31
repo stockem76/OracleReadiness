@@ -20,6 +20,8 @@ When multiple attachments are available, you can browse them directly in the sid
 
 View All Attachments
 
+NOTE: Although this feature is included in the 26C What's New documentation, it won't be available immediately upon the 26C update. Availability begins in September through a CWB request.
+
 Reduces the number of steps needed to open related documents and helps users work more efficiently when reviewing or managing document records.
 
 ## ⚙️ Steps to Enable and Configure
