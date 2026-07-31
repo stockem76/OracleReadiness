@@ -15,7 +15,7 @@ Time and Labor administrators now have a consolidated Time Profile page in Redwo
 • Set profile priority after submission. You assign HCM Groups with a priority to assign Time Profiles in 26C.
 • Make date effective updates or corrections to Time Profiles. Use ‘Correction’ to save changes within the current record version or ‘Update' to create a new effective-dated record version.
 • Profiles (Entry, Processing, and Device) created using classic page can be viewed and managed from the new Redwood Time Profiles.
-• Redwood Time Profiles now support defaulting time entries for non-public holiday calendar event categories. Optionally, administrators can set a default duration (in hours) considered for workers with a flexible work pattern. When configured, a time entry is defaulted on the time card based on this default duration and the payroll time type associated with the calendar event, when the calendar event day is an eligible day from their work pattern.
+• Redwood Time Profiles now support defaulting time entries for non-public holiday calendar event categories.
 
 ## ⚙️ Steps to Enable and Configure
 
