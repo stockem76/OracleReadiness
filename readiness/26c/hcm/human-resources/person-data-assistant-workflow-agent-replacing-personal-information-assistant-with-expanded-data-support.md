@@ -47,7 +47,7 @@ The new agent provides enhancements to person data management through a workflow
 
 • Your environment must have certain necessary configurations. Ask your help desk to contact Oracle Support, who can verify what your environment has and address any gaps. For more information, see FAQ2521 on My Oracle Cloud Support.
 • Set the Enable Security Console External Application Integration (ORA_ASE_SAS_INTEGRATION_ENABLED) profile option to **Yes** and enable permission groups for the appropriate roles. See Access Requirements for AI Agent Studio.
-• The Jobs Assistant is a preconfigured template. You need to create your own agent using the preconfigured template.
+• The Person Data Assistant is a preconfigured template. You need to create your own agent using the preconfigured template.
 • To learn how to set up AI agents, see Create AI Agents Using Preconfigured Agent Team Templates.
 
 ## 💡 Tips and Considerations
@@ -75,6 +75,11 @@ The **Person Data Assistant** (Workflow agent) uses child workflow agents to man
 • Passport
 • Visas and Permits
 • Family and Emergency Contacts
+
+**Worker search**
+
+• The agent doesn’t return workers whose hire date is in the future.
+• The agent doesn’t support advanced worker-search filtering, such as requests to find workers by location.
 
 **Controlling what information the agent can return, create, update, or delete**
 
@@ -112,7 +117,7 @@ The **Person Data Assistant** (Workflow agent) uses child workflow agents to man
 • If the agent is asked to add ethnicity data for a country where there isn't already a legislative record present, the agent creates the record as a new demographic row.
 • The “**Me**” Personal Details page hides the Add action for Demographic info, but the agent allows the employee to add a new record.
 • For the United States, multiple ethnicities are allowed. For other countries, if you specify more than one, the agent ignores all but the first value.
-• The agent doesn’t allow users to view, create, update, or delete ethnicity information for these legislations: Austria, Belgium, Bulgaria, Canada, Chile, Cyprus, Germany, Denmark, Estonia, Spain, Finland, France, Greece, Hong Kong, Hungary, Israel, India, Italy, Japan, South Korea, Kazakhstan, Liechtenstein, Lithuania, Luxembourg, Latvia, Mexico, Netherlands, Norway, Poland, Portugal, Russia, Sweden, Slovakia, Taiwan, and Ukraine.
+• The Personal Details page includes business rules which allow you to hide the ethnicity fields for certain countries. The agent allows viewing, creating, updating, and deleting for all countries.
 
 **Approvals**
 
@@ -134,6 +139,8 @@ The seeded **Human Resource Specialist** role includes the duty role required to
 • **Person Data Assistant Access Duty**(ORA_PER_PERSON_DATA_ASSISTANT_ACCESS_DUTY)
 
 To add the duty role, edit the target role and go to the **Role Hierarchy** page. On the **Roles and Permission Groups** tab, add the **Person Data Assistant Access Duty** role to the role hierarchy, then save your changes.
+
+For line managers or custom roles, the role needs to also include **Use REST Service - Worker Searches V2**. To add this privilege, edit the target role and go to the Role Hierarchy page. On the **Roles and Privileges** tab, add **Use REST Service - Worker Searches V2** to the role hierarchy, then save your changes.
 
 ## 📚 Key Resources
 
