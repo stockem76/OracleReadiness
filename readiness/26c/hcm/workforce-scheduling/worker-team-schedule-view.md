@@ -52,7 +52,8 @@ This profile option is disabled by default. When it’s disabled, workers contin
 • For coworkers, the page shows published shifts, approved absences, and public holidays. It doesn’t show work patterns, pending absences, unavailability, or availability information.
 • Coworker approved absences display without exposing the absence type.
 • Float pool department (core resource pool) workers can appear when they’re assigned or self-scheduled into a staffing department. But they don’t have team schedule visibility across schedule generation profiles.
-• Legacy schedules can’t be viewed using the Redwood Worker Team Schedule page.
+• Schedules built using Advanced Workforce Scheduling and Work Patterns can be viewed using the **Me > Team Schedules** page.
+• Legacy schedules can’t be viewed using the **Me > Team Schedules** page.
 
 ## 🔐 Access Requirements
 
