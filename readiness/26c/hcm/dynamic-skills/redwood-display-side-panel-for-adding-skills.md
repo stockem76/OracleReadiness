@@ -6,7 +6,7 @@
 
 > 📖 [View on Oracle Help Center](https://docs.oracle.com/en/cloud/saas/readiness/hcm/26c/dyns-26c/26C-dynamic-skills-wn-f49669.htm)
 
-Provides a drawer in Skills Center where users can search for skills, browse suggested skills, and view a list of newly added skills. Skills suggested are shown as chips along with a "+" icon to quickly add them. The *Newly Added Skills* section displays each skill with its chip, target level, self-rated level, and a delete option using a trash can icon, making it simple to manage skills in one place.
+Provides a drawer in Enhanced Skills Center where users can search for skills, browse suggested skills, and view a list of newly added skills. Skills suggested are shown as chips along with a "+" icon to quickly add them. The *Newly Added Skills* section displays each skill with its chip, target level, self-rated level, and a delete option using a trash can icon, making it simple to manage skills in one place.
 
 To access the drawer, choose *Add* on the *Self Developing* or *All Skills* tab.
 
