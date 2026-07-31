@@ -6,14 +6,14 @@
 
 > 📖 [View on Oracle Help Center](https://docs.oracle.com/en/cloud/saas/readiness/hcm/26c/payr-26c/26C-payroll-wn-f50308.htm)
 
-We have made it easier for you to review the tax info used by the US Oracle Tax Engine (USOPTE) during payroll processing. Use the Statutory Rules task to view federal, state, and local details in read-only format. Use the Statutory Rules task in My Client Groups to view federal, state, and local details in read-only format.
+We have made it easier for you to review the tax info used by the US Oracle Tax Engine (USOPTE) during payroll processing. Use the Statutory Rules task to view federal, state, and local details in read-only format. Use the **Statutory Rules** task in **My Client Groups** to view federal, state, and local details in read-only format.
 
 • Federal income tax (FIT) info for 2019 or earlier W-4 forms and 2020 or later W-4 forms
 • Social Security tax rate and wage base details
 • Medicare employer and employee rate details
 • Federal unemployment (FUTA) tax rate, limit, and credit reduction details
-• State income tax (SIT) details, including tax rate tables, deductions, allowances, exemptions, credits, phase-out tables, supplemental rates, and available calculation methods
-• State unemployment insurance (SUI), state disability insurance (SDI), paid family and medical leave, Vermont Child Care and Oregon State Transit Tax details
+• State income tax (SIT) details, including tax rate tables, deductions, allowances, exemptions, credits, phase-out tables, and supplemental rates
+• State unemployment insurance (SUI), state disability insurance (SDI), paid family and medical leave, Vermont Child Care, and Oregon State Transit Tax details
 • Local tax details for supported jurisdictions, including partial local criteria and Kentucky local tax contexts
 
 Federal Income Tax Statutory Rules Review
@@ -26,6 +26,7 @@ You don't need to do anything to enable this feature.
 
 ## 💡 Tips and Considerations
 
+• To access this task: My Client Groups > Show More > Payroll > Statutory Rules
 • You can filter this content by:
 • Legislative data group (LDG)
 • Tax category
