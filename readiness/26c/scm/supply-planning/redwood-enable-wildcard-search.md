@@ -4,7 +4,7 @@
 
 `⚙️ Steps to Enable` · `💡 Tips & Considerations` · `🔐 Access Requirements`
 
-> 📖 [View on Oracle Help Center](https://docs.oracle.com/en/cloud/saas/readiness/scm/26c/scp26c/26C-sc-planning-wn-f45847.htm)
+> 📖 [View on Oracle Help Center](https://docs.oracle.com/en/cloud/saas/readiness/scm/26c/scp26c/26C-sc-planning-wn-f45848.htm)
 
 You can now use the asterisk (*) wildcard in searches to accelerate discovery of content across key areas: pages, page groups, visualizations (including the content library), and measures in Edit Properties and Build Plan. You can enter patterns such as starts-with, ends-with, contains, and mixed-patterns, for searches across the content. The searches are case-insensitive. If no wildcard is entered, the system defaults to a contains search. This update focuses on usability and parity across search entry points commonly used by planners.
 
@@ -50,12 +50,12 @@ Special characters: In search fields that support wildcard search, an asterisk (
 
 Users who are assigned a configured job role that contains these privileges can access this feature for the specific locations:
 
-• Pages and Page Groups
-• Manage Planning Pages (MSC_MANAGE_PLANNING_PAGES_PRIV)
-• Visualizations
-• Edit Planning Analytics Configuration (MSC_EDIT_PLANNING_ANALYTICS_CONFIGURATION_PRIV)
-• Build Plan
-• Monitor Supply Planning Work Area (MSC_MONITOR_SUPPLY_PLANNING_WORK_AREA_PRIV)
+• Pages and Page Groups 
+  • Manage Planning Pages (MSC_MANAGE_PLANNING_PAGES_PRIV)
+• Visualizations 
+  • Edit Planning Analytics Configuration (MSC_EDIT_PLANNING_ANALYTICS_CONFIGURATION_PRIV)
+• Build Plan 
+  • Monitor Supply Planning Work Area (MSC_MONITOR_SUPPLY_PLANNING_WORK_AREA_PRIV)
 
 These privileges were available prior to this update.
 
