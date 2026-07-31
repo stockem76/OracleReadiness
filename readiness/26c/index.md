@@ -2,12 +2,12 @@
 
 # Oracle Cloud 26C — What's New
 
-**42 features** · **856 detail pages**
+**42 features** · **857 detail pages**
 
 | Pillar | Features | Details | Steps | Tips | Optional |
 |--------|---------|---------|-------|------|----------|
 | [Enterprise Resource Planning](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/erp/index.md) | 8 | 71 | 75 | 59 | 10 |
-| [Human Capital Management](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/hcm/index.md) | 16 | 330 | 329 | 167 | 8 |
+| [Human Capital Management](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/hcm/index.md) | 16 | 331 | 330 | 168 | 8 |
 | [Supply Chain & Manufacturing](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/scm/index.md) | 15 | 412 | 420 | 310 | 44 |
 | [Service (CX)](https://github.com/stockem76/OracleReadiness/blob/main/readiness/26c/service/index.md) | 3 | 43 | 43 | 38 | 2 |
 
